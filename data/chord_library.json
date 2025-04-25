@@ -1,0 +1,20 @@
+{
+  "A Major": {
+    "name": "A Major",
+    "fret": 2,
+    "fingers": {
+      "index": [2, 4],
+      "middle": [2, 3],
+      "ring": [2, 2]
+    }
+  },
+  "C Major": {
+    "name": "C Major",
+    "fret": 1,
+    "fingers": {
+      "index": [1, 2],
+      "middle": [2, 4],
+      "ring": [3, 5]
+    }
+  }
+}
